@@ -1,9 +1,2 @@
-def myFunc():
+def my_func():
     print('Ola')
-
-
-
-
-
-
-
