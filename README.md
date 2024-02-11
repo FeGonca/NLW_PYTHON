@@ -22,7 +22,7 @@ source <virtualenv_name>/bin/activate
 
 4. Run the application:
 ```bash
-python app.pyß
+python app.py
 ```
 
 ## Utilização
